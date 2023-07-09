@@ -1,0 +1,11 @@
+Model Information:
+* title:	The room
+* source:	https://sketchfab.com/3d-models/the-room-9f9c168e4c954ee1833e46380f27ae5f
+* author:	tomasikpawel2006 (https://sketchfab.com/tomasikpawel2006)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The room" (https://sketchfab.com/3d-models/the-room-9f9c168e4c954ee1833e46380f27ae5f) by tomasikpawel2006 (https://sketchfab.com/tomasikpawel2006) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
